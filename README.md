@@ -4,3 +4,5 @@ Portifólio de perfil profissional, pontuando características, uma breve descri
 Competências importantes, como o domínio de Inglês como segundo idioma, liderança, e habilidades técnicas como programação em Arduino e Python estão presentes, além de cursos de Python, Java Script e Hardware do Computador.
 
 Projetos como um jogo No-Code realizado no Bitsy e o "Mentes em Jogo", de Projetos 1, também é destacado!
+
+Nesse portifólio, você é apresentado a quem é Guilherme, e porque ele deve ser recomendado para uma vaga profissional.
